@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/imam-muwatok/imam-muwatok/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/imam-muwatok/imam-muwatok/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
